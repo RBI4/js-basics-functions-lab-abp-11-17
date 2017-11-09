@@ -5,7 +5,7 @@ return Math.abs(end-start);
 }
 
 function distanceFromHqInFeet(end){
-  letBlocksTraveled = 
+  letBlocksTraveled =
 }
 
 
