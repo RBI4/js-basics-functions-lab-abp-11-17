@@ -1,11 +1,12 @@
 // Code your solution in this file!
-distanceFromHqInBlocks(end) {
+distanceFromHqInBlocks(end){
 let start = 42
 return Math.abs(end-start);
 }
 
 function distanceFromHqInFeet(end){
-  letBlocksTraveled =
+  letBlocksTraveled =distanceFromHqInBlocks(end);
+  calculateVertical(end, blocksTraveled)
 }
 
 
