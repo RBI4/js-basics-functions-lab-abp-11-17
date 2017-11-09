@@ -4,6 +4,11 @@ let start = 42
 return Math.abs(end-start);
 }
 
+function distanceFromHqInFeet(end){
+  letBlocksTraveled = 
+}
+
+
 function calculateVertical(1, 100){
 
   let feetInBlock = 264;
