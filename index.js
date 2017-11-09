@@ -1,7 +1,8 @@
 // Code your solution in this file!
-distanceFromHqInBlocks() {
-
+distanceFromHqInBlocks(end) {
+let start = 42
 }
+
 function calculateVertical(1, 100){
 
   let feetInBlock = 264;
