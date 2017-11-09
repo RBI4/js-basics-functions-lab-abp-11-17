@@ -1,3 +1,4 @@
 // Code your solution in this file!
-distanceFromHqInBlocks(42) {
+distanceFromHqInBlocks(distance) {
+    const distance=42;
 }
